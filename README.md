@@ -17,3 +17,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alberto-26&show_icons=true&theme=dark&locale=en" alt="alberto-26" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alberto-26&theme=dark" alt="alberto-26" /></p>
+
+<p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/Alberto-26/count.svg" />
+</p>
